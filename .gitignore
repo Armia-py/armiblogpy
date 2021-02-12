@@ -1,5 +1,11 @@
-#Idea
+# Idea
 .idea
 
-#Virtual Env
+# Virtual Env
 venv
+
+# Database
+db.sqlite3
+
+# Migration
+blog/migrations
